@@ -1,0 +1,15 @@
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/bin/Debug/net9.0/StudentApp.Infr.deps.json
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/bin/Debug/net9.0/StudentApp.Infr.dll
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/bin/Debug/net9.0/StudentApp.Infr.pdb
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/bin/Debug/net9.0/StudentApp.Domain.dll
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/bin/Debug/net9.0/StudentApp.Domain.pdb
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/obj/Debug/net9.0/StudentApp.Infr.csproj.AssemblyReference.cache
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/obj/Debug/net9.0/StudentApp.Infr.GeneratedMSBuildEditorConfig.editorconfig
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/obj/Debug/net9.0/StudentApp.Infr.AssemblyInfoInputs.cache
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/obj/Debug/net9.0/StudentApp.Infr.AssemblyInfo.cs
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/obj/Debug/net9.0/StudentApp.Infr.csproj.CoreCompileInputs.cache
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/obj/Debug/net9.0/StudentA.31A86CB6.Up2Date
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/obj/Debug/net9.0/StudentApp.Infr.dll
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/obj/Debug/net9.0/refint/StudentApp.Infr.dll
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/obj/Debug/net9.0/StudentApp.Infr.pdb
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/obj/Debug/net9.0/ref/StudentApp.Infr.dll

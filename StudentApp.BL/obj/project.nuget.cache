@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5s1z/M2TjXE=",
+  "success": true,
+  "projectFilePath": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.BL/StudentApp.BL.csproj",
+  "expectedPackageFiles": [
+    "/home/scooperlosses/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

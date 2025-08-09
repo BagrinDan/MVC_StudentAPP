@@ -1,0 +1,11 @@
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/bin/Debug/net9.0/StudentApp.Domain.deps.json
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/bin/Debug/net9.0/StudentApp.Domain.dll
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/bin/Debug/net9.0/StudentApp.Domain.pdb
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/obj/Debug/net9.0/StudentApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/obj/Debug/net9.0/StudentApp.Domain.AssemblyInfoInputs.cache
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/obj/Debug/net9.0/StudentApp.Domain.AssemblyInfo.cs
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/obj/Debug/net9.0/StudentApp.Domain.csproj.CoreCompileInputs.cache
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/obj/Debug/net9.0/StudentApp.Domain.dll
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/obj/Debug/net9.0/refint/StudentApp.Domain.dll
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/obj/Debug/net9.0/StudentApp.Domain.pdb
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/obj/Debug/net9.0/ref/StudentApp.Domain.dll

@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "StudentApp.Web/1.0.0": {
+        "dependencies": {
+          "StudentApp.BL": "1.0.0"
+        },
+        "runtime": {
+          "StudentApp.Web.dll": {}
+        }
+      },
+      "StudentApp.BL/1.0.0": {
+        "dependencies": {
+          "StudentApp.Domain": "1.0.0",
+          "StudentApp.Infr": "1.0.0"
+        },
+        "runtime": {
+          "StudentApp.BL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StudentApp.Domain/1.0.0": {
+        "runtime": {
+          "StudentApp.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StudentApp.Infr/1.0.0": {
+        "dependencies": {
+          "StudentApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "StudentApp.Infr.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentApp.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentApp.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentApp.Infr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

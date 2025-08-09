@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.BL/StudentApp.BL.csproj": {}
+  },
+  "projects": {
+    "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.BL/StudentApp.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.BL/StudentApp.BL.csproj",
+        "projectName": "StudentApp.BL",
+        "projectPath": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.BL/StudentApp.BL.csproj",
+        "packagesPath": "/home/scooperlosses/.nuget/packages/",
+        "outputPath": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.BL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/scooperlosses/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/StudentApp.Domain.csproj": {
+                "projectPath": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/StudentApp.Domain.csproj"
+              },
+              "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/StudentApp.Infr.csproj": {
+                "projectPath": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/StudentApp.Infr.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.7, 9.0.7]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/StudentApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/StudentApp.Domain.csproj",
+        "projectName": "StudentApp.Domain",
+        "projectPath": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/StudentApp.Domain.csproj",
+        "packagesPath": "/home/scooperlosses/.nuget/packages/",
+        "outputPath": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/scooperlosses/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.7, 9.0.7]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/StudentApp.Infr.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/StudentApp.Infr.csproj",
+        "projectName": "StudentApp.Infr",
+        "projectPath": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/StudentApp.Infr.csproj",
+        "packagesPath": "/home/scooperlosses/.nuget/packages/",
+        "outputPath": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Infr/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/scooperlosses/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/StudentApp.Domain.csproj": {
+                "projectPath": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Domain/StudentApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.7, 9.0.7]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
