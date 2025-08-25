@@ -1,0 +1,50 @@
+/* Общий стиль для страницы */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #fafafa;
+    color: #333;
+}
+
+/* Основной контент */
+.main-content {
+    flex: 1; /* растягиваем контент между header и footer */
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Заголовок */
+.main-content h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+/* Параграф */
+.main-content p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #555;
+}
+
+/* Кнопки для действий (если будут) */
+.main-content .btn {
+    background-color: #258cfb;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.main-content .btn:hover {
+    background-color: #1b6fd1;
+}
