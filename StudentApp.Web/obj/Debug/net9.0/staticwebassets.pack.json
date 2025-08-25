@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/StudentApp.Web.l7a97im3lp.bundle.scp.css"
     },
     {
+      "Id": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Web/wwwroot/css/footer.css",
+      "PackagePath": "staticwebassets/css/footer.css"
+    },
+    {
       "Id": "/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Web/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
