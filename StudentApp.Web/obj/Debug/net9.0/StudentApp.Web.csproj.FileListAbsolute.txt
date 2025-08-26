@@ -25,7 +25,7 @@
 /home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Web/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Web/obj/Debug/net9.0/scopedcss/bundle/StudentApp.Web.styles.css
 /home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Web/obj/Debug/net9.0/scopedcss/projectbundle/StudentApp.Web.bundle.scp.css
-/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Web/obj/Debug/net9.0/compressed/2l76r7crbc-nudydyvnfz.gz
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Web/obj/Debug/net9.0/compressed/2l76r7crbc-vfojozu2lk.gz
 /home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Web/obj/Debug/net9.0/compressed/c2ay3zyln2-q0vmehauaz.gz
 /home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Web/obj/Debug/net9.0/compressed/opcegxflz4-ix4g9b77gs.gz
 /home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Web/obj/Debug/net9.0/compressed/jtk7assn74-7siallbck7.gz
@@ -107,3 +107,4 @@
 /home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Web/obj/Debug/net9.0/StudentApp.Web.pdb
 /home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Web/obj/Debug/net9.0/StudentApp.Web.genruntimeconfig.cache
 /home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Web/obj/Debug/net9.0/ref/StudentApp.Web.dll
+/home/scooperlosses/MVC_Projects/StudentApp/StudentApp.Web/obj/Debug/net9.0/compressed/81f22ws7lg-fhgvt4l4a7.gz

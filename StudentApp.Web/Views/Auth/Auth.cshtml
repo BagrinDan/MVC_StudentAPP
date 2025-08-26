@@ -1,0 +1,35 @@
+@{
+    Layout = null;
+    ViewData["Title"] = "Login";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - StudentApp.Web</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/auth.css" asp-append-version="true" />
+</head>
+<body class="d-flex justify-content-center align-items-center vh-100 bg-light">
+    <div class="card shadow-sm p-4" style="max-width:400px; width:100%;">
+        <h2 class="text-center mb-4">Login</h2>
+        <div class="mb-3">
+                <label for="Username" class="form-label">Login</label>
+                <input type="text" class="form-control" id="Username" name="Username" required />
+            </div>
+
+            <div class="mb-3">
+                <label for="Password" class="form-label">Password</label>
+                <input type="password" class="form-control" id="Password" name="Password" required />
+            </div>
+        <button type="submit" class="btn btn-primary w-100">Submit</button>
+
+        <a asp-controller="Home" asp-action="Index" class="btn btn-secondary w-100">Back</a>
+        <a asp-controller="Auth" asp-action="Register" class="btn btn-secondary w-100">Register</a>
+
+
+    </div>
+</body>
+</html>
